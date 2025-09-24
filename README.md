@@ -1,6 +1,6 @@
 # 🛒 Shopping Cart UI
 
-A React shopping cart application built as part of **Brad Traversy's Modern React course**. This app applies modern React practices including **Context API** for state management, and uses **json-server** to serve mock product data.
+A React shopping cart app built as part of **Brad Traversy's Modern React course**. This app applies modern React practices including **Context API** for state management, and uses **json-server** to serve mock product data.
 
 ---
 
